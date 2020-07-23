@@ -1,4 +1,4 @@
-![Hello](/hello.png)
+![Hello](/hey.png)
 
 <!--
 **singhsuryansh12/singhsuryansh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
