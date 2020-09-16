@@ -16,6 +16,7 @@ I am a second year engineering undergraduate student at BIT Mesra, Ranchi. I :he
 
 - 📓 I have published articles on:
   * [Introduction to Azure DevOps for Noobs](https://medium.com/@singhsuryansh12/a-noobs-intro-to-azure-devops-7d5ee1645a57)
+  * [Cloud-based automation using BrowserStack and Selenium in Python](https://medium.com/swlh/automation-using-browserstack-and-selenium-f3f01c0360e1)
 
 - 📫 You can reach out to me on:
 [![alt text][1.1]][1]
