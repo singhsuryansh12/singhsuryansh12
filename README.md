@@ -24,9 +24,9 @@ I am a second year engineering undergraduate student at BIT Mesra, Ranchi. I :he
 [![alt text][6.1]][6]
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (@singhsuryansh12 on Twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (Suryansh Singh on Facebook)
+[6.1]: http://i.imgur.com/0o48UoR.png (@singhsuryansh12 on GitHub)
 
 [1]: http://www.twitter.com/singhsuryansh12
 [2]: http://www.facebook.com/singhusryansh12
